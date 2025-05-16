@@ -45,6 +45,7 @@
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/7a429570-373a-4cb4-be81-666f80231f0c)
+![image](https://github.com/user-attachments/assets/7f3b45bc-17a6-4594-b9f9-1d2a362bc86e)
 
 ### Name: Praveen S
 ### Register Number: 212224230206
